@@ -25,4 +25,4 @@ l'entraînement du modèle et la génération de prédictions.
 
 1. Clonez le repository :
    ```bash
-   git clone https://github.com/votre_nom_utilisateur/Titanic-Machine-Learning-from-Disaster.git
+   git clone https://github.com/youngSaid21/Titanic-Machine-Learning-from-Disaster.git
